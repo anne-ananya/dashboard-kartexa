@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2023-05-29 224932](https://github.com/anne-ananya/dashboard-kartexa/assets/124860809/331a8a9f-420e-461e-b194-355b1c01f69b)
+![Screenshot 2023-05-29 224954](https://github.com/anne-ananya/dashboard-kartexa/assets/124860809/b48f5a29-b53e-4245-bf19-4baad3e2c0ac)
+![Screenshot 2023-05-29 225008](https://github.com/anne-ananya/dashboard-kartexa/assets/124860809/ff813cf3-227f-4742-8ebc-5215ab528a5d)
+![Screenshot 2023-05-29 225019](https://github.com/anne-ananya/dashboard-kartexa/assets/124860809/f6e64b3f-fb0b-4abb-97e8-915c7e2f590e)
+![Screenshot 2023-05-29 225030](https://github.com/anne-ananya/dashboard-kartexa/assets/124860809/d4c85b09-658d-4df4-b733-ca0981db8e98)
+
